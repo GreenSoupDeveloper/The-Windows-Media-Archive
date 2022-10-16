@@ -1,0 +1,108 @@
+body{
+    background-color: #feffd7;
+
+}
+
+body p{
+    color: rgb(95, 95, 95);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.maintext{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mainpagetext{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 95);
+}
+.warning{
+    color: rgb(255, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+body a{
+    color: rgb(31, 31, 31);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+body h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(95, 95, 95);
+}
+body img{
+    align-items: center;
+    
+}
+.greensoupicon128 {
+    margin: 10px auto 20px;
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+.exploremore {
+    margin: 10px auto 20px;
+    display: block;
+}
+.greensouptwitter {
+    margin: 10px auto 20px;
+    display: block;
+}
+.home {
+    margin: 10px auto 20px;
+    display: block;
+}
+
+/* Navbar container */
+
+body marquee {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(10, 10, 10);
+}
+.discordpage {
+    margin: 10px auto 20px;
+    display: block;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #E1FFB1;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #495e00;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #90b36e;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #B6E388;
+  color: white;
+}
+img{
+    width: 125px;
+    height: 100px;
+}
+.ie{
+    
+    width: 88px;
+    height: 31px;
+}
+.link{
+    color: blue;
+}
+.linknt{
+    color: rgb(0, 0, 155);
+}
